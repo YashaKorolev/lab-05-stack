@@ -10,7 +10,7 @@ struct Node
     T value;
     Node<T> *prev;
 
-    Node(T value, Node<T> *prev) : value(value), prev(prev) {}
+    Node(T valu1e, Node<T> *pre1v) : value(valu1e), prev(pre1v) {}
 };
 
 #endif //TEMPLATE1_NODE_H
