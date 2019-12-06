@@ -1,3 +1,4 @@
+//Copyright 2018 Your Name <your_email>
 #include <gtest/gtest.h>
 #include "Stack1.h"
 #include "Stack2.h"

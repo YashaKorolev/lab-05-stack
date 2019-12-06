@@ -1,6 +1,4 @@
-//
-// Created by yasha on 06.12.2019.
-//
+//Copyright 2018 Your Name <your_email>
 int main()
 {
     return 0;
