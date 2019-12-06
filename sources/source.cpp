@@ -1,3 +1,7 @@
-// Copyright 2018 Your Name <your_email>
-
-#include <header.hpp>
+//
+// Created by yasha on 06.12.2019.
+//
+int main()
+{
+    return 0;
+}

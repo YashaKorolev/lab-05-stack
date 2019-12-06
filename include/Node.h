@@ -1,5 +1,5 @@
 //
-// Created by alexandergaranin on 03.12.2019.
+// Created by yasha on 06.12.2019.
 //
 
 #ifndef TEMPLATE1_NODE_H

@@ -1,5 +1,5 @@
 //
-// Created by alexandergaranin on 03.12.2019.
+// Created by yasha on 06.12.2019.
 //
 
 #ifndef TEMPLATE1_STACK1_H
@@ -9,7 +9,7 @@
 #include "exception"
 #include "Node.h"
 
-using namespace std;
+
 
 template<typename T>
 class Stack1 {
@@ -46,14 +46,14 @@ public:
 
     const T &head() const {
         if (node == nullptr)
-            throw logic_error("no stack");
+            throw std::logic_error("no stack");
         else
             return node->value;
     }
 
     void pop() {
         if (node == nullptr)
-            throw logic_error("no stack");
+            throw std::logic_error("no stack");
         else if (node != nullptr)
             node = node->prev;
     }
